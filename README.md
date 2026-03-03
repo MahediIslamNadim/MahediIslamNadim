@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD (Zaid)
+# 👋 Hi, I'm MD (Nadim)
 
 CST Diploma Student | SaaS Builder | Cybersecurity & AI Explorer  
 
