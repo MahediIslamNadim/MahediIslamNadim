@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD (Nadim)
+# 👋 Hi, I'm MD Nadim
 
 CST Diploma Student | SaaS Builder | Cybersecurity & AI Explorer  
 
@@ -83,8 +83,7 @@ Small automation and robotics experiments for learning embedded systems.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/MahediIslamNadim
 
 ---
 
