@@ -61,7 +61,12 @@ philosophy : Build > Consume | Depth > Hype | Systems > Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧠 Programming
@@ -84,19 +89,24 @@ philosophy : Build > Consume | Depth > Hype | Systems > Tools
 <tr>
 <td width="50%">
 
-### 🍽️ Restaurant QR SaaS
-Digital menu system for restaurants with admin dashboard and full database backend.
+### 🍽️ QRManager
+Production-ready Restaurant QR SaaS — digital menu system with real-time order management and PostgreSQL backend.
 
 **Tech Stack:**
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+`TypeScript` `PLpgSQL` `PostgreSQL`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-90.5%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-8.7%25-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Other](https://img.shields.io/badge/Other-0.8%25-555?style=flat-square)
 
 **Features:**
 - 📱 QR code-based digital menu
-- 🖥️ Admin dashboard
-- 🗄️ Database-driven backend
-- 💳 Multi-restaurant support
+- 🖥️ Multi-restaurant admin dashboard
+- 🗄️ PostgreSQL + PLpgSQL stored procedures
+- ⚡ Type-safe TypeScript backend
+- 🔐 Role-based access control
 
-[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim)
+[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/QRManager)
 
 </td>
 <td width="50%">
