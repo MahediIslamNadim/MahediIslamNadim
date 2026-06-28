@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+IoT+%7C+Robotics;Building+Real+Products+From+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD;Ship+Fast.+Learn+By+Building.%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+Cybersecurity+%7C+IoT+%7C+Robotics;Building+Secure+%26+Intelligent+Products+From+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD;Ship+Fast.+Learn+By+Building.%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -31,11 +31,11 @@
 name       : Mahedi Islam Nadim
 location   : Sylhet, Bangladesh 🇧🇩
 study      : Computer Science & Technology (CST) — Diploma
-status     : Developer · Builder · Explorer
+status     : Developer · Builder · Security Enthusiast
 philosophy : Build > Consume | Ship > Plan | Depth > Hype
 ```
 
-**Building real software — not tutorials.** From restaurant SaaS to AI-powered hardware IDEs, I ship products that work.
+**Building secure & intelligent software — not tutorials.** From restaurant SaaS to AI-powered hardware IDEs, I ship products that work. Passionate about Web Application Security and Ethical Hacking.
 
 </div>
 
@@ -89,6 +89,13 @@ philosophy : Build > Consume | Ship > Plan | Depth > Hype
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+**Security & Ethical Hacking**
+
+![Web Application Security](https://img.shields.io/badge/Web%20App%20Security-FF6B6B?style=for-the-badge&logo=owasp&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-ffb547?style=for-the-badge&logo=bugcrowd&logoColor=black)
+![Penetration Testing](https://img.shields.io/badge/Pentest-00e5a0?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-4D9FFF?style=for-the-badge&logo=wireshark&logoColor=white)
+
 </div>
 
 ---
@@ -123,6 +130,7 @@ philosophy : Build > Consume | Ship > Plan | Depth > Hype
 |----------|------------|---------|
 | Python — AI/ML Path | `███████░░░` 70% | Build production AI systems |
 | FastAPI & WebSocket | `████████░░` 80% | API backends |
+| Web App Security & Pentest | `██████░░░░` 65% | Secure applications |
 | Data Structures & Algorithms | `██████░░░░` 60% | Problem solving |
 | IoT & Embedded Systems | `████░░░░░░` 40% | Hardware products |
 
