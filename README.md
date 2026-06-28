@@ -71,57 +71,34 @@ website    : nexcoreltd.com
 
 ---
 
-## 🚀 Active Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 PIKA — AI Chat Assistant
-A ChatGPT-style AI assistant with CLI, Web UI & Telegram support. Built from scratch with multi-model fallback.
+### 🔧 Circuit AI — Agentic Robotics Studio
+AI-powered hardware engineer IDE. Natural language → schematic / PCB / firmware / BOM. Multi-agent pipeline, 295+ tests, CI/CD.
 
-**Tech Stack:**
-`Python` `FastAPI` `WebSocket` `SQLite` `OpenRouter`
-
-**Features:**
-- 💬 ChatGPT-style web UI (v3.0)
-- 🖥️ Rich terminal CLI
-- 🔍 Real-time DuckDuckGo web search
-- 🧠 SQLite long-term memory
-- 🔄 20+ free model fallback with exponential backoff
-- 📟 Telegram bot support (planned)
-
-[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim)
-
-</td>
-<td width="50%">
-
-### 🎙️ MYRA — Voice AI Assistant
-A real-time voice AI with Islamic cultural personality, screen reading & physical automation capabilities.
-
-**Tech Stack:**
-`Python` `LiveKit Agents` `Gemini 2.5 Flash` `OCR`
+**Tech Stack:** `Python` `FastAPI` `Next.js` `React` `TypeScript` `SPICE`
 
 **Features:**
-- 🎤 Real-time voice interaction
-- ☪️ Islamic cultural personality (Dua, Quran, Ramadan modes)
-- 👁️ Screen reading via OCR
-- 🏠 Physical automation integration (planned)
-- ⚡ Streaming + connection pooling
-- 📅 Jumu'ah / Eid / Ramadan context modes
+- 🤖 Agentic Robotics Studio — firmware gen, wiring harness, HIL tests, sim export
+- 🔌 AI Copilot — auto-fix ERC, component substitution, live suggestions
+- 📐 KiCad-style schematic editor — symbols, orthogonal nets, pin labels
+- 🧪 DC/Transient/AC SPICE simulation
+- 🚀 GitHub Actions CI/CD + Playwright E2E
+- 📦 295+ backend tests, Docker, deployment pipeline
 
-[![View Project](https://img.shields.io/badge/View%20Project-00e5a0?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim)
+[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/circuit-ai)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🍽️ QRManager — Restaurant SaaS
 Production-ready Restaurant QR SaaS — digital menu system with real-time order management.
 
-**Tech Stack:**
-`TypeScript` `PostgreSQL` `PLpgSQL` `React`
+**Tech Stack:** `TypeScript` `PostgreSQL` `PLpgSQL` `React`
 
 **Features:**
 - 📱 QR code-based digital menu
@@ -133,52 +110,30 @@ Production-ready Restaurant QR SaaS — digital menu system with real-time order
 [![View Project](https://img.shields.io/badge/View%20Project-ffb547?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/QRManager)
 
 </td>
-<td width="50%">
-
-### 👁️ ShopEye — AI CCTV Monitor
-AI-powered CCTV shop monitoring system with real-time threat detection and analytics dashboard.
-
-**Tech Stack:**
-`Python` `YOLOv8` `OpenCV` `DeepFace` `FastAPI` `React`
-
-**Features:**
-- 🎯 Real-time object detection (YOLOv8)
-- 😐 Facial emotion recognition (DeepFace)
-- 🎙️ Audio transcription (Whisper AI)
-- 📊 Live analytics dashboard
-- 🚨 Automated threat alerts
-
-[![View Project](https://img.shields.io/badge/View%20Project-ff6b6b?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim)
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔧 Circuit AI — Agentic Robotics Studio
-AI-powered hardware engineer IDE. Natural language prompt → schematic / PCB / firmware / BOM. Multi-agent pipeline with 295+ tests and CI/CD.
+### 🔍 AI Research Tool
+Perplexity-style AI Research Tool — Multi-step agentic search with verification, SSE streaming.
 
-**Tech Stack:**
-`Python` `FastAPI` `Next.js` `React` `TypeScript` `SPICE`
+**Tech Stack:** `Python` `FastAPI` `SSE`
 
 **Features:**
-- 🤖 Agentic Robotics Studio — firmware gen, wiring harness, HIL tests, sim export
-- 🔌 AI Copilot — auto-fix ERC, component substitution, live suggestions
-- 📐 Full schematic editor — KiCad-style symbols, orthogonal nets, pin labels
-- 🧪 DC/Transient/AC SPICE simulation with 50-point waveforms
-- 🚀 CI/CD — GitHub Actions, Playwright E2E, coverage reporting
-- 📦 295+ backend tests, Docker, deployment pipeline
+- 🧠 Multi-step agentic search
+- ✅ Verification pipeline
+- ⚡ SSE streaming responses
+- 🌙 Black theme UI
 
-[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/circuit-ai)
+[![View Project](https://img.shields.io/badge/View%20Project-00e5a0?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/AI-Research-Tool)
 
 </td>
 <td width="50%">
 
 ### 🏠 Smart Home Automation
-Arduino-based smart home system with PIR motion sensor and LM35 temperature sensor for energy saving.
+Arduino-based smart home system with PIR motion sensor and LM35 temperature sensor.
 
-**Tech Stack:**
-`Arduino` `C++` `HTML` `CSS` `JavaScript`
+**Tech Stack:** `Arduino` `C++` `HTML` `CSS` `JavaScript`
 
 **Features:**
 - 💡 Auto light via PIR sensor
@@ -187,29 +142,73 @@ Arduino-based smart home system with PIR motion sensor and LM35 temperature sens
 - ⚡ Real-time energy tracking
 
 [![View Project](https://img.shields.io/badge/View%20Project-a78bfa?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/Smart-Home-Automation)
-[![Live Demo](https://img.shields.io/badge/Live%20Simulation-ffb547?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/MahediIslamNadim/Smart-Home-Automation/blob/main/smart_home_working_Simulation.html)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 nexcoreltd.com — Company Website
-Official NexCore Technologies website showcasing divisions, roadmap, and product portfolio.
+### 🛸 ESP32 Flight Controller
+ESP32 flight controller firmware — custom drone hardware with PlatformIO.
 
-**Tech Stack:**
-`HTML` `CSS` `JavaScript`
+**Tech Stack:** `C++` `PlatformIO` `ESP32`
 
 **Features:**
-- 🏢 Full company identity & branding
-- 🗺️ Long-term roadmap to 2037+
-- 📂 All 6 divisions presented
-- 🛰️ NexCore Orbital vision section
+- ✈️ Flight controller firmware
+- 📡 Sensor fusion (IMU + Baro)
+- 🔌 PWM motor control
+- 📶 Telemetry link
 
-[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/nexcoreltd.com)
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/esp32)
 
 </td>
 <td width="50%">
+
+### 🗺️ Drone Programmer Roadmap 2026
+Complete roadmap for Flight Controller, Autonomous UAV & Robotics development with AI Agents.
+
+**Tech Stack:** `C++` `Python` `ROS2` `AI`
+
+**Features:**
+- 📋 Step-by-step drone programming guide
+- 🤖 AI Agent integration
+- 🎯 Flight controller development path
+- 🛸 Autonomous UAV systems
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF4081?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/Drone-Programmer-Roadmap-2026)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 ReconTools
+Fast and flexible reconnaissance toolkit for ethical hackers and bug bounty hunters.
+
+**Tech Stack:** `Python` `Bash` `Linux`
+
+**Features:**
+- 🔍 Subdomain enumeration
+- 🌐 Web technology detection
+- 📡 Port scanning
+- 🎯 Target profiling
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/recontools)
+
+</td>
+<td width="50%">
+
+### 📚 Python Study Notes
+CST diploma Python learning — basics, examples, and study notes.
+
+**Tech Stack:** `Python`
+
+**Features:**
+- 📖 Structured learning path
+- 💻 Code examples
+- 📝 CST diploma curriculum
+
+[![View Project](https://img.shields.io/badge/View%20Project-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MahediIslamNadim/Python_study_note)
 
 </td>
 </tr>
