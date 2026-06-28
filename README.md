@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/MahediIslamNadim">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a1e2e,100:0a0e1a&height=200&section=header&text=Mahedi%20Islam%20Nadim&fontSize=40&fontColor=4D9FFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20IoT%20%7C%20Robotics&descSize=16&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a1e2e,100:0a0e1a&height=200&section=header&text=Mahedi%20Islam%20Nadim&fontSize=40&fontColor=4D9FFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20%7C%20IoT%20%7C%20Robotics&descSize=16&descAlignY=55&animation=twinkling" width="100%"/>
 </a>
 
 </div>
