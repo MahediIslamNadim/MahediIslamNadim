@@ -190,6 +190,8 @@ Arduino-based smart home system with PIR motion sensor and LM35 temperature sens
 [![Live Demo](https://img.shields.io/badge/Live%20Simulation-ffb547?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/MahediIslamNadim/Smart-Home-Automation/blob/main/smart_home_working_Simulation.html)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 nexcoreltd.com — Company Website
@@ -205,6 +207,9 @@ Official NexCore Technologies website showcasing divisions, roadmap, and product
 - 🛰️ NexCore Orbital vision section
 
 [![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/nexcoreltd.com)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
