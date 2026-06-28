@@ -152,10 +152,26 @@ AI-powered CCTV shop monitoring system with real-time threat detection and analy
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
+<td width="50%">
+
+### 🔧 Circuit AI — Agentic Robotics Studio
+AI-powered hardware engineer IDE. Natural language prompt → schematic / PCB / firmware / BOM. Multi-agent pipeline with 295+ tests and CI/CD.
+
+**Tech Stack:**
+`Python` `FastAPI` `Next.js` `React` `TypeScript` `SPICE`
+
+**Features:**
+- 🤖 Agentic Robotics Studio — firmware gen, wiring harness, HIL tests, sim export
+- 🔌 AI Copilot — auto-fix ERC, component substitution, live suggestions
+- 📐 Full schematic editor — KiCad-style symbols, orthogonal nets, pin labels
+- 🧪 DC/Transient/AC SPICE simulation with 50-point waveforms
+- 🚀 CI/CD — GitHub Actions, Playwright E2E, coverage reporting
+- 📦 295+ backend tests, Docker, deployment pipeline
+
+[![View Project](https://img.shields.io/badge/View%20Project-4D9FFF?style=for-the-badge&logo=github)](https://github.com/MahediIslamNadim/circuit-ai)
+
+</td>
 <td width="50%">
 
 ### 🏠 Smart Home Automation
@@ -268,7 +284,7 @@ Official NexCore Technologies website showcasing divisions, roadmap, and product
 ```
 2024 ████████████ ✅  QRManager SaaS · ShopEye CCTV AI · NCT Website
 2025 ████████░░░░ 🔄  PIKA v3.0 · MYRA Voice AI · QRManager Production Launch
-2026 ██████░░░░░░ 📋  EduTrack · TrafficAI · NCT IoT Hardware Products
+2026 ██████░░░░░░ 📋  Circuit AI Studio · EduTrack · TrafficAI · NCT IoT Hardware Products
 2027 ████░░░░░░░░ 📋  NCT Robotics prototype · AutoDrive R&D begins
 2030 ██░░░░░░░░░░ 📋  NCT Aerospace · Drone systems with edge AI
 2037 █░░░░░░░░░░░ 🛰️   NexCore Orbital — Satellite-hosted AI network
