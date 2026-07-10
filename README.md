@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MahediIslamNadim?style=for-the-badge&logo=github&color=4D9FFF&labelColor=0a0e1a&label=Followers)](https://github.com/MahediIslamNadim?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/MahediIslamNadim?style=for-the-badge&logo=github&color=ffb547&labelColor=0a0e1a&label=Stars)](https://github.com/MahediIslamNadim)
-![Profile views](https://komarev.com/ghpvc/?username=MahediIslamNadim&style=for-the-badge&color=00e5a0&label=Views&base=100)
+![Profile views](https://komarev.com/ghpvc/?username=MahediIslamNadim&style=for-the-badge&color=00e5a0&label=Views)
 
 </div>
 
